@@ -2,7 +2,7 @@
 Soronként 1 név:
 
 Babonics Bence - 
-Bagdi Bálint - Bagdi Bálint
+Bagdi Bálint - 
 Csizmadia Balázs - 
 Demény Áron - 
 Erdélyi Levente - 
@@ -16,6 +16,6 @@ Lábadi Szebasztián -
 Lanczendorfer Milán - Lanczendorfer Milán
 Nagy Veronika - 
 Pethő Dániel - 
-Presser Mihály - 
+Presser Mihály - Presser Mihály
 Virág Ádám - 
 Horváth Péter - Horváth Péter
